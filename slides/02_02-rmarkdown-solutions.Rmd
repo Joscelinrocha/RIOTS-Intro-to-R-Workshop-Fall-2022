@@ -1,0 +1,25 @@
+---
+title: "My 2022 Report"
+author: "Joscelin Rocha-Hidalgo"
+date: "2022-11-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+My name is Grace Goodwin. I am the most **amazing** human being.You've *never* met someone like me. Please hire me!
+
+## Reasons Why I am the Best
+    - Because I say so
+    - Because it is true
+    - Why would I lie?
+    
+```{r}
+my_var = 2+2
+print(my_var)
+```
+
